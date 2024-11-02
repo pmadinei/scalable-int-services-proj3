@@ -12,6 +12,6 @@ A simple Twitter-like application built with Ruby on Rails.
 
 ## Requirements
 
-- Ruby version: [Your Ruby version]
-- Rails version: [Your Rails version]
+- Ruby version: 3.3.5
+- Rails version: 7.2.0
 - SQLite3
