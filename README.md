@@ -1,24 +1,17 @@
-# README
+# Twitter_aka_X
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Twitter-like application built with Ruby on Rails.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+- User authentication (username only)
+- Create, read, update, and delete posts
+- Comment on posts
+- Filter posts by username
+- Election content validation
 
-* System dependencies
+## Requirements
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby version: [Your Ruby version]
+- Rails version: [Your Rails version]
+- SQLite3
